@@ -8,6 +8,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | Easy |
 | 4 | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.cpp) | Hard |
+| 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.cpp) | Easy |
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.cpp) | Easy |
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.cpp) | Medium |
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/26.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.cpp) | Easy |
