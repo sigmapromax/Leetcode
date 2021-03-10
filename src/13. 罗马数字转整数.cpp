@@ -12,7 +12,7 @@ public:
         }
         return -1;
     }
-
+    
     int romanToInt(string s) {
         int res = 0;
         int n = s.size();
