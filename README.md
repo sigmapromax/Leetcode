@@ -34,5 +34,6 @@ LeetCode
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/101.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp) | Easy |
 | 147 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/147.%20%E5%AF%B9%E9%93%BE%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.cpp) | Medium |
 | 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/190.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.cpp) | Easy |
+| 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp) | Easy |
 | 1047 | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/1047.%20%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.cpp) | Easy |
 
