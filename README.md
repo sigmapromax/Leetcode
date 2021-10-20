@@ -2,8 +2,6 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
-
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [C++](https://github.com/zlf991008/leetcode/blob/main/src/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | Easy |
